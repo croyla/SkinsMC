@@ -1,0 +1,8 @@
+name: Skins
+version: '${project.version}'
+main: org.animey.skins.Skins
+api-version: '1.20'
+prefix: AnimeySkins
+authors: [croyla]
+description: Restore player skins in offline-mode (Paper-only Plugin)
+
